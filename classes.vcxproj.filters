@@ -21,6 +21,9 @@
     <ClInclude Include="DefensiveRobot.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="NormalRobot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Robot.cpp">
@@ -29,5 +32,14 @@
     <ClCompile Include="DefensiveRobot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="NormalRobot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Z:\README.md" />
   </ItemGroup>
 </Project>

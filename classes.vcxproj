@@ -28,11 +28,17 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DefensiveRobot.h" />
+    <ClInclude Include="NormalRobot.h" />
     <ClInclude Include="Robot.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DefensiveRobot.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="NormalRobot.cpp" />
     <ClCompile Include="Robot.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Z:\README.md" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
